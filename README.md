@@ -1,4 +1,5 @@
 # xmlJoiner
+![DOI: 10.5281/zenodo.10050908](https://zenodo.org/badge/DOI/10.5281/zenodo.10050908.svg)
 
 Join two or more PARC Telemetry files downloaded from ESA EDDS.
 
